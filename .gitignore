@@ -1,0 +1,14 @@
+/*.gem
+~*
+#*
+*~
+.bundle
+Gemfile.lock
+.rbenv-version
+.ruby-version
+vendor
+doc/*
+tags
+tmp/*
+.yardoc
+pkg/
