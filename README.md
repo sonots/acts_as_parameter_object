@@ -25,6 +25,9 @@ ParameterObjectExample.new(:foo => 'bar').valid? #=> false
 
 You can use all of ActiveModel::Validations methods.
 
+I use a parameter object as a validator model for params coming from rails controller. 
+In contrast to ActiveRecord, this model does not access to the database. 
+
 ## Contributing
 
 1. Fork it
