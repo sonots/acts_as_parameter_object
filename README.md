@@ -1,6 +1,6 @@
 # acts_as_parameter_object
 
-testing ruby: 1.9.2, 1.9.3, 2.0.0
+testing ruby: 1.9.3, 2.0.0
 
 ## About acts_as_parameter_object
 
